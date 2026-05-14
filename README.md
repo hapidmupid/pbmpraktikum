@@ -2,7 +2,7 @@
 
 ## Identitas Mahasiswa
 
-| Keterangan | Isi |
+
 |------------|-----|
 | **Nama** | Hafidlul Hidayat |
 | **NIM** | 242410102095 |
