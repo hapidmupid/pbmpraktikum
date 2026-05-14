@@ -2,8 +2,6 @@
 
 ## Identitas Mahasiswa
 
-
-|------------|-----|
 | **Nama** | Hafidlul Hidayat |
 | **NIM** | 242410102095 |
 | **Kelas** | PBM B |
