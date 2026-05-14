@@ -61,22 +61,30 @@ Aplikasi menggunakan REST API dan **Bearer Token Authentication** untuk keamanan
 
 ---
 
+
 ## Struktur Project
 lib/
-├── main.dart
+│
 ├── models/
-│ └── product_model.dart
+│   ├── login_response.dart
+│   └── product_model.dart
+│
 ├── screens/
-│ ├── login_screen.dart
-│ ├── dashboard_screen.dart
-│ ├── add_product_screen.dart
-│ ├── product_detail_screen.dart
-│ └── submit_task_screen.dart
+│   ├── login_screen.dart
+│   ├── dashboard_screen.dart
+│   ├── add_product_screen.dart
+│   ├── product_detail_screen.dart
+│   └── submit_task_screen.dart
+│
 ├── services/
-│ └── api_service.dart
-└── widgets/
-└── progress_snackbar.dart
+│   └── api_service.dart
+│
+├── widgets/
+│   └── product_card.dart
+│
+└── main.dart
 
+---
 
 ## API Endpoint
 
