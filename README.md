@@ -63,6 +63,8 @@ Aplikasi menggunakan REST API dan **Bearer Token Authentication** untuk keamanan
 
 
 ## Struktur Project
+
+```text
 lib/
 │
 ├── models/
@@ -83,6 +85,8 @@ lib/
 │   └── product_card.dart
 │
 └── main.dart
+```
+
 
 ---
 
