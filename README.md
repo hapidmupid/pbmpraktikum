@@ -2,9 +2,11 @@
 
 ## Identitas Mahasiswa
 
+| Keterangan | Isi |
+|------------|-----|
 | **Nama** | Hafidlul Hidayat |
 | **NIM** | 242410102095 |
-| **Kelas** | PBM B |
+| **Kelas** | PBM Praktikum 2026 |
 
 ---
 
